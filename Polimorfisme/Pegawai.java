@@ -6,7 +6,7 @@ package Polimorfisme;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class Pegawai {
     public String nama;
@@ -18,3 +18,4 @@ public class Pegawai {
     }
     
    }
+
