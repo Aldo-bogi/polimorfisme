@@ -6,7 +6,7 @@ package Polimorfisme;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class Programer extends Pegawai {
     public int bonus;
@@ -19,3 +19,4 @@ package Polimorfisme;
     }
     
 }
+
