@@ -6,7 +6,7 @@ package Polimorfisme;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class Manajer extends Pegawai{
     public int Tunjangan;
@@ -17,3 +17,4 @@ package Polimorfisme;
         System.out.println("TUNJANGAN" + Tunjangan);
     }
 }
+
