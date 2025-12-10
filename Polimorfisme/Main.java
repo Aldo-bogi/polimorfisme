@@ -6,7 +6,7 @@ package Polimorfisme;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
     public class Main {
     public static void main(String[] args) {
@@ -47,3 +47,4 @@ package Polimorfisme;
         }
         }
     }
+
